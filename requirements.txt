@@ -1,0 +1,11 @@
+# Core (Colab/Linux/Mac)
+numpy
+opencv-python
+pillow
+scipy
+torch
+torchvision
+mediapipe
+pycocotools
+# Optional: export SceneAnalyzer to Core ML (tested by coremltools with torch<=2.7)
+# coremltools

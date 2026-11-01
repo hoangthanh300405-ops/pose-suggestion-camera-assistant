@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pt
+*.task
+*.mlpackage
+*.mlpackage.zip
+*.zip
+*.bak_*
+data/
+outputs/
+*.pth
